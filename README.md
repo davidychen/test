@@ -7,6 +7,8 @@
 * [Overview & Top Findings](#Overview--Top-Findings)
 * [Project Methodology](#Project-Methodology)
 * [User Profile](#User-Profile)
+* [Usability Findings & Recommendations](#Usability-Findings--Recommendations)
+* [Final Questions](#Final-Questions)
 
 ---
 
@@ -34,8 +36,8 @@ The participants were all non-technical people.
 
 User # | Sex / Age | Job Title / Company |  Platform / Browser | Prepared By
 --- | --- | --- | --- | ---
-1 | M / 30 | Student | Mac / Safari | David
-2 | F / 24 | ... | Windows / Firefox | David
+-1 | M / 30 | Student | Mac / Safari | David
+0 | F / 24 | ... | Windows / Firefox | David
 
 ---
 
@@ -53,7 +55,7 @@ After looking at this sharing post, users were asked to predict whether they wou
 
 User | Would you visit the website? | User Comments
 --- | --- | ---
-1 | Yes / Maybe / Probably Not | If I were led to it with some sort of ???
+0 | Yes / Maybe / Probably Not | If I were led to it with some sort of ???
 
 #### 2. First Clicks from Home
 
@@ -65,7 +67,7 @@ Users were next asked to look at the home page and comment on which links they w
 
 User | First Links Selected
 --- | ---
-1 | Pokemon Ball
+0 | Pokemon Ball
 
 #### 3. Would You Sign Up?
 
@@ -73,7 +75,7 @@ After exploring the home page, users were asked if they would sign up to play th
 
 User | Would you sign up? | Information Wanted Prior to Signing Up | Comment
 --- | --- | --- | ---
-1 | Yes / Maybe / No | ??? | ???
+0 | Yes / Maybe / No | ??? | 
 
 ### Home Page Questionnaire
 
@@ -81,22 +83,59 @@ User | Would you sign up? | Information Wanted Prior to Signing Up | Comment
 
 User | Comment
 --- | ---
-1 | Pokemon Ball
+0 | Pokemon Ball
 
 #### 5. Users’ Ratings after Initial Exploration
 
 Based on what you see on this page, what are your expectations for using this site?
 
- User | Confusing (0) <br> Clear (10) | Difficult to Use (0) <br> Easy to Use (10) | Comment 
- --- | --- | --- | ---
- 1 | 3 | 3 | ??? 
- **Mean** | 3 | 3 | ??? 
+User | Confusing (0) <br> Clear (10) | Difficult to Use (0) <br> Easy to Use (10) | Comment 
+--- | --- | --- | ---
+0 | 3 | 3 | ??? 
+**Mean** | **3** | **3** | **--**
 
 ---
 
 ## Final Questions
 
+1. Rate your overall impression of the web site you used today:
+
+User |  Difficult to Use (0) <br> Easy to Use (10) | Boring (0) <br> Exciting (10) | Comment 
+--- | --- | --- | ---
+0 | 3 | 3 | ??? 
+**Mean** | **3** | **3** | **--**
+
+2. Rate the instructions located throughout the site:
+
+User |  Unhelpful (0) <br> Helpful (10) | Comment 
+--- | --- | --- 
+0 | 3 | ??? 
+**Mean** | **3** | **--**
+
+3. Rate your agreement with the following statement.
+
+I always knew exactly where I was in the web site and how to get to where I was going.
+
+User |  Strongly Disagree (0) <br> Strongly Agree (10) | Comment <br> (where did you feel lost?) 
+--- | --- | --- 
+0 | 3 | ??? 
+**Mean** | **3** | **--**
+
+4. Do you still have any unanswered questions about how the game works at this point?
+
+User | Comment
+--- | --- 
+0 | ???
+
+5. After this brief introduction to the game, would you be interested in playing?
+
+User |  Response | Comments
+--- | --- | --- 
+0 | Yes / No / Maybe | ??? 
 
 
+6. Do you have any final comments to make regarding the game web site?
 
-
+User | Comment
+--- | --- 
+0 | ???
