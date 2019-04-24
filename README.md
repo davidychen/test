@@ -43,14 +43,13 @@ User # | Sex / Age | Job Title / Company |  Platform / Browser | Prepared By
 
 ### Home Page Issues
 
+#### 1. Web Site Visitation
 
 <p align="center">
   <img src="fb-sharing.png" width="500"/>
 </p>
 
-#### 1. Web Site Visitation
-
-   After looking at this sharing post, users were asked to predict whether they would visit the web site. Users’ responses are summarized in the table below. 
+After looking at this sharing post, users were asked to predict whether they would visit the web site. Users’ responses are summarized in the table below. 
 
 User | Would you visit the website? | User Comments
 --- | --- | ---
@@ -58,11 +57,11 @@ User | Would you visit the website? | User Comments
 
 #### 2. First Clicks from Home
 
-Users were next asked to look at the home page and comment on which links they would click. Most users would have visited the "What is Match 'Em All?" page as well as the Online Demo.
-
 <p align="center">
   <img src="home-page.png" width="800"/>
 </p>
+
+Users were next asked to look at the home page and comment on which links they would click. Most users would have visited the "What is Match 'Em All?" page as well as the Online Demo.
 
 User | First Links Selected
 --- | ---
@@ -76,8 +75,22 @@ User | Would you sign up? | Information Wanted Prior to Signing Up
 --- | --- | ---
 1 | Yes / Maybe / No | ???
 
+### Home Page Questionnaire
 
+#### 4. User Comments about the Home Page
 
+User | Comment
+--- | ---
+1 | Pokemon Ball
+
+#### 5. Users’ Ratings after Initial Exploration
+
+Based on what you see on this page, what are your expectations for using this site?
+
+User | Confusing (0) -- Clear (10) | Difficult to Use (0) -- Easy to Use (10)
+--- | --- | ---
+1 | 3 | 3
+**Mean** | 3 | 3
 
 
 
