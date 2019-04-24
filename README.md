@@ -4,7 +4,7 @@
 
 ## Table Of Content
 
-* [Overview & Top Findings]()
+* [Overview & Top Findings](#Overview--Top-Findings)
 
 -----------
 
@@ -15,7 +15,6 @@ The goal of this research effort was to assess to overall usability of the match
 ### Top Findings
 
 * **Comments**
+   Some Explanation...
 
-   asasasasas
-
-   aaaa
+## PROJECT METHODOLOGY
