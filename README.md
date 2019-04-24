@@ -18,9 +18,9 @@ The goal of this research effort was to assess to overall usability of the <http
 
 ### Top Findings
 
-* **Comments**
+* **Pikachu**
 
-   Some Explanation...
+   Pikachu! pikachu!
 
 ---
 
@@ -38,6 +38,7 @@ User # | Sex / Age | Job Title / Company |  Platform / Browser | Prepared By
 --- | --- | --- | --- | ---
 -1 | M / 30 | Student | Mac / Safari | David
 0 | F / 24 | ... | Windows / Firefox | David
+1 | M / 24 | Student | Mac / Chrome | David
 
 ---
 
@@ -56,6 +57,7 @@ After looking at this sharing post, users were asked to predict whether they wou
 User | Would you visit the website? | User Comments
 --- | --- | ---
 0 | Yes / Maybe / Probably Not | If I were led to it with some sort of ???
+1 | Yes | Like the picture and wonder if violate the copyright
 
 #### 2. First Clicks from Home
 
@@ -68,6 +70,7 @@ Users were next asked to look at the home page and comment on which links they w
 User | First Links Selected
 --- | ---
 0 | Pokemon Ball
+1 | left Pokemon ball
 
 #### 3. Would You Sign Up?
 
@@ -76,22 +79,26 @@ After exploring the home page, users were asked if they would sign up to play th
 User | Would you sign up? | Information Wanted Prior to Signing Up | Comment
 --- | --- | --- | ---
 0 | Yes / Maybe / No | ??? | 
+1 | Yes | Add feature - forget password
 
-### Home Page Questionnaire
-
-#### 4. User Comments about the Home Page
-
-User | Comment
---- | ---
-0 | Pokemon Ball
-
-#### 5. Users’ Ratings after Initial Exploration
+#### 4. Users’ Ratings after Initial Exploration of the game
 
 Based on what you see on this page, what are your expectations for using this site?
 
 User | Confusing (0) <br> Clear (10) | Difficult to Use (0) <br> Easy to Use (10) | Comment 
 --- | --- | --- | ---
 0 | 3 | 3 | ??? 
+1 | 9 | 9 | Single usage of the game
+**Mean** | **3** | **3** | **--**
+
+#### 5. About the collection
+
+Based on what you see on this page, what are your expectations for using this site?
+
+User | Easy to find (0) <br> Hard to find (10) | Confusing display (0) <br> Clear display (10) | Comment 
+--- | --- | --- | ---
+0 | 3 | 3 | ??? 
+1 | 8 | 1 | Add search to collection, Add base stats to display
 **Mean** | **3** | **3** | **--**
 
 ---
@@ -103,6 +110,7 @@ User | Confusing (0) <br> Clear (10) | Difficult to Use (0) <br> Easy to Use (10
 User |  Difficult to Use (0) <br> Easy to Use (10) | Boring (0) <br> Exciting (10) | Comment 
 --- | --- | --- | ---
 0 | 3 | 3 | ??? 
+1 | 9 | 5 | Need more hard work
 **Mean** | **3** | **3** | **--**
 
 2. Rate the instructions located throughout the site:
@@ -110,6 +118,7 @@ User |  Difficult to Use (0) <br> Easy to Use (10) | Boring (0) <br> Exciting (1
 User |  Unhelpful (0) <br> Helpful (10) | Comment 
 --- | --- | --- 
 0 | 3 | ??? 
+1 | 10 | --
 **Mean** | **3** | **--**
 
 3. Rate your agreement with the following statement.
@@ -119,6 +128,7 @@ I always knew exactly where I was in the web site and how to get to where I was 
 User |  Strongly Disagree (0) <br> Strongly Agree (10) | Comment <br> (where did you feel lost?) 
 --- | --- | --- 
 0 | 3 | ??? 
+1 | 10 | --
 **Mean** | **3** | **--**
 
 4. Do you still have any unanswered questions about how the game works at this point?
@@ -126,12 +136,14 @@ User |  Strongly Disagree (0) <br> Strongly Agree (10) | Comment <br> (where did
 User | Comment
 --- | --- 
 0 | ???
+1 | No
 
 5. After this brief introduction to the game, would you be interested in playing?
 
 User |  Response | Comments
 --- | --- | --- 
 0 | Yes / No / Maybe | ??? 
+1 | Yes | --
 
 
 6. Do you have any final comments to make regarding the game web site?
