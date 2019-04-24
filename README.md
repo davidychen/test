@@ -3,6 +3,7 @@
 > A flipping pokemon card game. When you flip two same card, you catch the pokemon! Compete with others and expand your collection! Try to Catch some rare pokemons like Groudon! We have statistics of kinds of pokemon caught every day!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/davidychen/match-em-all/blob/master/LICENSE)
+[![aaa](https://img.shields.io/github/commit-activity/intervalw/davidychen/match-em-all.svg]
 
 ## Getting Started
 
