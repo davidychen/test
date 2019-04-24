@@ -48,5 +48,11 @@ User # | Sex / Age | Job Title / Company |  Platform / Browser | Prepared By
   <img src="fb-sharing.png" width="500"/>
 </p>
 
+1. Web Site Visitation
 
+   After looking at this sharing post, users were asked to predict whether they would visit the web site. Users’ responses are summarized in the table below. 
+
+User | Would you visit the website? | User Comments
+--- | --- | ---
+1 | Yes / Maybe / Probably Not | If I were led to it with some sort of <x>
 
