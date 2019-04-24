@@ -72,8 +72,8 @@ User | First Links Selected
 After exploring the home page, users were asked if they would sign up to play the game. If users hesitated, they were asked what additional information they would need to see before joining.
 
 User | Would you sign up? | Information Wanted Prior to Signing Up | Comment
---- | --- | ---
-1 | Yes / Maybe / No | ???
+--- | --- | --- | ---
+1 | Yes / Maybe / No | ??? | ???
 
 ### Home Page Questionnaire
 
@@ -87,10 +87,10 @@ User | Comment
 
 Based on what you see on this page, what are your expectations for using this site?
 
-| User | Confusing (0) <br> Clear (10) | Difficult to Use (0) <br> Easy to Use (10) | Comment |
-| --- | --- | --- | ---|
-| 1 | 3 | 3 | ??? |
-| **Mean** | 3 | 3 | ??? |
+ User | Confusing (0) <br> Clear (10) | Difficult to Use (0) <br> Easy to Use (10) | Comment 
+ --- | --- | --- | ---
+ 1 | 3 | 3 | ??? 
+ **Mean** | 3 | 3 | ??? 
 
 ---
 
