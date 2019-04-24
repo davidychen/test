@@ -45,7 +45,7 @@ User # | Sex / Age | Job Title / Company |  Platform / Browser | Prepared By
 
 
 <p align="center">
-  <img src="fb-sharing.png"/>
+  <img src="fb-sharing.png" width="500"/>
 </p>
 
 
