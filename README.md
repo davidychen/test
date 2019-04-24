@@ -2,7 +2,7 @@
 
 > April 23, 2019
 
-## Table Of Content
+## Table of Content
 
 * [Overview & Top Findings](#Overview--Top-Findings)
 * [Project Methodology](#Project-Methodology)
@@ -32,10 +32,10 @@ The goal of this research effort was to assess to overall usability of the <http
 
 The participants were all non-technical people. 
 
-User # | Sex / Age | Job Title / Company |  Platform / Browser
---- | --- | --- | ---
-1 | M / 30 | Student | Mac / Safari
-2 | F / 24 | ... | Windows / Firefox
+User # | Sex / Age | Job Title / Company |  Platform / Browser | Prepared By
+--- | --- | --- | --- | ---
+1 | M / 30 | Student | Mac / Safari | David
+2 | F / 24 | ... | Windows / Firefox | David
 
 
 
