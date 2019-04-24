@@ -56,3 +56,30 @@ User | Would you visit the website? | User Comments
 --- | --- | ---
 1 | Yes / Maybe / Probably Not | If I were led to it with some sort of ???
 
+#### 2. First Clicks from Home
+
+Users were next asked to look at the home page and comment on which links they would click. Most users would have visited the "What is Match 'Em All?" page as well as the Online Demo.
+
+<p align="center">
+  <img src="home-page.png" width="800"/>
+</p>
+
+User | First Links Selected
+--- | ---
+1 | Pokemon Ball
+
+#### 3. Would You Sign Up?
+
+After exploring the home page, users were asked if they would sign up to play the game. If users hesitated, they were asked what additional information they would need to see before joining.
+
+User | Would you sign up? | Information Wanted Prior to Signing Up
+--- | --- | ---
+1 | Yes / Maybe / No | ???
+
+
+
+
+
+
+
+
