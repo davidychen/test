@@ -37,6 +37,16 @@ User # | Sex / Age | Job Title / Company |  Platform / Browser | Prepared By
 1 | M / 30 | Student | Mac / Safari | David
 2 | F / 24 | ... | Windows / Firefox | David
 
+---
+
+## Usability Findings & Recommendations
+
+### Home Page Issues
+
+
+<p align="center">
+  <img src="fb-sharing.png"/>
+</p>
 
 
 
