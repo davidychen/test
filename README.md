@@ -87,7 +87,8 @@ User | Comment
 
 Based on what you see on this page, what are your expectations for using this site?
 
-User | Confusing (0) <br/> Clear (10) | Difficult to Use (0) <br/> Easy to Use (10) | Comment
+User | Confusing (0)   | Difficult to Use (0) | Comment
+     | Clear (10)      | Easy to Use (10) | 
 --- | --- | ---
 1 | 3 | 3
 **Mean** | 3 | 3
